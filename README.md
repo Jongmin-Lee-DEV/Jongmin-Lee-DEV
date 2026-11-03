@@ -38,6 +38,5 @@
 
 <p>
   <a href="mailto:whdals591278@gmail.com"><img src="https://img.shields.io/badge/Gmail-whdals591278@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <!-- 디스코드: 아래 줄 앞뒤의 주석 표시를 지우고 사용자명과 사용자 ID를 넣으세요 -->
-  <!-- <a href="https://discord.com/users/디스코드_사용자_ID"><img src="https://img.shields.io/badge/Discord-사용자명-5865F2?style=flat-square&logo=discord&logoColor=white"></a> -->
+  <a href="https://discord.com/users/407481548913246218"><img src="https://img.shields.io/badge/Discord-pyeong__ta__-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
