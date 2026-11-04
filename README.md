@@ -8,6 +8,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
@@ -18,7 +20,7 @@
 </p>
 
 - **하드웨어**: 회로 배선·납땜, 만능기판 설계, ADC(MCP3008)·서보·레이저 제어, Altium PCB 설계
-- **소프트웨어**: Python, SPI/PWM 제어, TCP 소켓 통신, 신호 처리(주파수 검출), 디스코드 봇
+- **소프트웨어**: Python, SPI/PWM 제어, TCP 소켓 통신, 신호 처리(주파수 검출), 디스코드 봇, JavaScript 웹 도구
 - **서버**: AWS EC2(Ubuntu)에서 봇 24시간 운영 — SSH, tmux, nohup, 프로세스 관리
 - **기구**: 3D 모델링·출력 (Inventor, Bambu Studio)
 
@@ -30,7 +32,8 @@
 |---|---|---|
 | [🕷️ 레이저 배틀 거미로봇](https://github.com/Jongmin-Lee-DEV/laser-battle-spider-robot) | 캡스톤 디자인. 거미로봇 2대가 레이저로 대전하는 게임. 태양광 패널을 피격 센서로 쓰고 25/35Hz 주파수 변조로 자기 피격을 구분 | Raspberry Pi 5, Python, SPI, TCP, 3D 프린팅 |
 | [⚔️ 아이온2 보스 타이머 봇](https://github.com/Jongmin-Lee-DEV/aion2-boss-timer-bot) | 개인 프로젝트. 보스 젠 시간 계산·10분 전 알림, 참여 점수 랭킹, 레기온 보관함. 실제 레기온에서 운영 | Python, discord.py, APScheduler, AWS EC2 |
-<!-- 창업대회 프로젝트를 올리면 위 표에 한 줄 추가 -->
+| [🎲 림버스 천장 계산기](https://github.com/Jongmin-Lee-DEV/limbus-pity-calculator) · [바로 써 보기](https://jongmin-lee-dev.github.io/limbus-pity-calculator/) | 개인 프로젝트. 가진 재화로 목표 픽업 인격·E.G.O를 전부 얻을 확률을 동적 계획법으로 정확히 계산. 천장·E.G.O 비복원 추출 반영, 테스트로 검증 | JavaScript, HTML/CSS, GitHub Pages, node:test |
+<!-- 다음 프로젝트를 올리면 위 표에 한 줄 추가 -->
 
 <br>
 
